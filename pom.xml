@@ -13,8 +13,8 @@
 
     <properties>
         <java.version>21</java.version>
-        <sonar.projectKey>piomin_sample-java-sonar</sonar.projectKey>
-        <sonar.organization>piomin</sonar.organization>
+        <sonar.projectKey>adibazra03_sample-java-sonar</sonar.projectKey>
+        <sonar.organization>hazrul-adib-abdullah-azra</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <build>
@@ -48,4 +48,5 @@
 
 
 </project>
+
 
